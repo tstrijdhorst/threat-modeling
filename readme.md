@@ -30,7 +30,7 @@ To get a good idea of the threat, you can use these questions to evaluate:
 
 * What is the vulnerability?
 * Who is the threat actor, i.e who is going to exploit this and what is their motivation?
-* What is the damage is the vulnerability is exploited? (impact)
+* What is the damage if the vulnerability is exploited? (impact)
 * How easy is it to launch an attack? (chance of it happening)
 
 ## Identify a potential response
