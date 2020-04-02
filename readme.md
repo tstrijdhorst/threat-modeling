@@ -20,7 +20,7 @@ Key Points to take home:
 * Determine effectiveness of response and measure cost/benefit ratio
 * If necessary rinse & repeat
 
-_Note: to any of these question you can always answer __unknown__. What does it tell you that this is unknown?_  
+_Note: to any of the questions below you can always answer __unknown__. However, what does it tell you that this is unknown?_  
 _Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats_
 
 ## Identify the threat
