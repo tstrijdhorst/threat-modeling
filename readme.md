@@ -25,7 +25,7 @@ _Note: accepting the risk (i.e do nothing) is also a valid response and will nec
 
 ## Identify the threat
 
-To get a good idea of the threat, you can use these questions to evaluate.
+To get a good idea of the threat, you can use these questions to evaluate:
 
 * What is the vulnerability?
 * Who is the threat actor, i.e who is going to exploit this and what is their motivation?
@@ -36,7 +36,7 @@ To get a good idea of the threat, you can use these questions to evaluate.
 
 How can you make sure the above described scenario doesn't happen?
 
-* Describe all the facets of the response 
+* Describe the response with enough detail to have a clear idea of how it works (if this is not possible, take a mental note of that and describe all the available details).
 
 ## Determine effectiveness of response and measure cost/benefit ratio
 
