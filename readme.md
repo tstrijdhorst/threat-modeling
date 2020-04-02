@@ -34,7 +34,9 @@ To get a good idea of the threat, you can use these questions to evaluate:
 
 ## Identify a potential response
 
-How can you make sure the above described scenario doesn't happen?
+Is the risk of the described scenario acceptable? If so __do nothing__.
+
+If not, how can you make sure the above described scenario doesn't happen?
 
 * Describe the response with enough detail to have a clear idea of how it works (if this is not possible, take a mental note of that and describe all the available details).
 
