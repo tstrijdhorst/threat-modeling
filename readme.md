@@ -15,7 +15,7 @@ Key Points to take home:
 
 ## General outline
 
-* Identify the treat
+* [Identify the treat](#Identify-the-threat)
 * Identify a potential response
 * Determine effectiveness of response and measure cost/benefit ratio
 * If necessary rinse & repeat
