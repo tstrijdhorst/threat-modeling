@@ -3,6 +3,8 @@
 Making security decisions is hard. There are often plenty of unknowns and scary emotions, yet you have to make an efficient and rational decision about real world problems.
 Defining explicit threat scenarios can help you think about these problems in a systematic way.
 
+_Note: This is a checklist of working with a specific threat scenario. If you are looking for ways to threat model an entire system (i.e identifying sets of threat scenarios) there are other systems for that. You can start here: [here](https://owasp.org/www-community/Application_Threat_Modeling)_
+
 Key Points to take home:
 
 * Security is based on risk assessment. Risk is a combination of `the chance that something happens` multiplied by `the impact when something happens`.
@@ -18,8 +20,8 @@ Key Points to take home:
 * Determine effectiveness of response and measure cost/benefit ratio
 * If necessary rinse & repeat
 
-__Note: to any of these question you can always answer _unknown_. What does it tell you that this is unknown?__  
-__Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats__
+_Note: to any of these question you can always answer __unknown__. What does it tell you that this is unknown?_  
+_Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats_
 
 ## Identify the threat
 
