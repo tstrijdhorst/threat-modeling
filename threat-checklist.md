@@ -42,7 +42,7 @@ Security almost always has costs, if not directly monetary then it will most pro
 
 * Does the response counter the threat completely (i.e chance of it happening is reduced to 0)? If not, reidentify the threat from a perspective where the response is in place. Is this level of risk acceptable?
 * How much monetary resources do we have to invest directly into this response?
-* How does the respense affect user experience and non-monetary resources?
+* How does the response affect user experience and other non-monetary resources?
 
 * How do these costs measure up against the risk of the threat?
 
