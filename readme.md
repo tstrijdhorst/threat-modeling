@@ -21,7 +21,7 @@ Key Points to take home:
 * If necessary rinse & repeat
 
 _Note: to any of the questions below you can always answer __unknown__. However, what does it tell you that this is unknown?_  
-_Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats_
+_Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats._
 
 ## Identify the threat
 
