@@ -18,8 +18,8 @@ Key Points to take home:
 * [Identify the treat](#Identify-the-threat)
 * [Identify a potential response](#Identify-a-potential-response)
 * [Determine effectiveness](#Determine-effectiveness)
-* [Cost/Benefit ratio](#Cost/benefit-ratio)
-* [If necessary rinse & repeat](#Rinse-&-Repeat)
+* [Cost/Benefit ratio](#costbenefit-ratio)
+* [If necessary rinse & repeat](#rinse--repeat)
 
 _Note: to any of the questions below you can always answer __unknown__. However, what does it tell you that this is unknown?_  
 _Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats._
