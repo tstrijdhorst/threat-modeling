@@ -16,9 +16,10 @@ Key Points to take home:
 ## General outline
 
 * [Identify the treat](#Identify-the-threat)
-* Identify a potential response
-* Determine effectiveness of response and measure cost/benefit ratio
-* If necessary rinse & repeat
+* [Identify a potential response](#Identify-a-potential-response)
+* [Determine effectiveness](#Determine-effectiveness)
+* [Cost/Benefit ratio](#Cost/benefit-ratio)
+* [If necessary rinse & repeat](#Rinse-&-Repeat)
 
 _Note: to any of the questions below you can always answer __unknown__. However, what does it tell you that this is unknown?_  
 _Note: accepting the risk (i.e do nothing) is also a valid response and will necessarily be the answer to many threats._
@@ -40,11 +41,14 @@ If not, how can you make sure the above described scenario doesn't happen?
 
 * Describe the response with enough detail to have a clear idea of how it works (if this is not possible, take a mental note of that and describe all the available details).
 
-## Determine effectiveness of response and measure cost/benefit ratio
+## Determine effectiveness
+
+* Does the response counter the threat completely (i.e chance of it happening is reduced to 0)? If not, reidentify the threat from a perspective where the response is in place. Is this level of risk acceptable?
+
+## Cost/Benefit ratio
 
 Security almost always has costs, if not directly monetary then it will most probably make the user experience harder, in terms of time consumption or cognitive load.
 
-* Does the response counter the threat completely (i.e chance of it happening is reduced to 0)? If not, reidentify the threat from a perspective where the response is in place. Is this level of risk acceptable?
 * How much monetary resources do we have to invest directly into this response?
 * How does the response affect user experience and other non-monetary resources?
 
